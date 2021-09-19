@@ -9,7 +9,7 @@ nav li {
 
 .alignright { float:left; }
 
-nav a {
+.menuPrincipal {
 	background: #E2EAE4;
 	text-transform: uppercase;
 	color: #003E15;
@@ -19,3 +19,8 @@ nav a {
 	 padding: 1px 20px;
 }
 
+#rectangle{
+    width:200px;
+    height:100px;
+    background:blue;
+}
