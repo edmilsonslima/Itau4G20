@@ -1,5 +1,5 @@
 header {
-	background: #BBBBBB;
+	background: #FCFDFD;
 }
 
 nav li {
@@ -7,10 +7,15 @@ nav li {
 	margin: 0 0 0 15px;
 }
 
+.alignright { float:left; }
+
 nav a {
+	background: #E2EAE4;
 	text-transform: uppercase;
-	color: #000000;
+	color: #003E15;
 	font-weight: bold;
 	font-size: 22px;
 	text-decoration: none;
+	 padding: 1px 20px;
 }
+
