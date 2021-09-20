@@ -25,6 +25,23 @@ nav li {
     background: #81F781;
 }
 
+section.slogan{
+	background: #81F7F3;
+	padding: 30px 0;
+	text-align: center;
+	color: #000000;
+}
+section.slogan i{
+	font-size: 40px;
+}
+section.texto-chamada h2,
+section.texto-chamada h3{
+	font-weight: normal;
+}
+
+section.texto-chamada h2 > b{
+	color: #000000;
+}
 
 .Autores{
 	padding: 30px 0;
