@@ -31,61 +31,46 @@ nav li {
 	padding: 0 2%;
 }
 
-section.video1{
-	background: #017173;
-	padding: 30px 0;
-	text-align: center;
-	color: white;
-}
-section.video1 i{
-	font-size: 40px;
-}
-section.video1 h2,
-section.video1 h3{
-	font-weight: normal;
-}
 
-section.video1 h2 > b{
-	color: rgb(231, 66, 107);
 
-section.Autores{
+.Autores{
 	padding: 10px 0;
 }
 
 
-section.Autores > .center{
+.Autores > .center{
 	display: left;
 	flex-wrap: wrap;
 }
 
-section.AutoresListaOrdemAlfabetica{
+.AutoresListaOrdemAlfabetica{
 	width: 33.3%;
 	padding: 20px;
 }
 
 
-section.box-single-loja{
+.box-single-loja{
 	height: 100%;
 	border: 1px solid rgb(225,225,225);
 }
 
-section.box-single-lista img{
+.box-single-lista img{
 	max-width: 100%;
 }
 
-section.box-single-lista h2{
+.box-single-lista h2{
 	text-align: center;
 	padding:0 8px;
 	font-weight: normal;
 }
 
-section.box-single-lista p{
+.box-single-lista p{
 	padding:15px 8px;
 	font-size: 15px;
 	color: rgb(10,10,10);
 }
 
-section.AutoresListaOrdemAlfabetica a{
+.AutoresListaOrdemAlfabetica a{
 	color: white;
 	background: #5fb382;
 	padding: 10px 8px;
