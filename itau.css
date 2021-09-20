@@ -7,7 +7,9 @@ nav li {
 	margin: 0 0 0 15px;
 }
 
-.alignright { float:left; }
+.alignright {
+	text-align:right;
+}
 
 .menuPrincipal {
 	background: #E2EAE4;
