@@ -25,6 +25,11 @@ nav li {
     background:blue;
 }
 
+.center{
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 0 2%;
+}
 
 section.Autores{
 	padding: 10px 0;
