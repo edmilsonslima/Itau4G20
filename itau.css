@@ -55,6 +55,24 @@ section.video1{
 	color: black;
 }
 
+section.Noticia01{
+	background: #F3F781;
+	border-radius: 10px;
+	padding: 30px 0;
+	text-align: center
+	color: black;
+}
+
+section.Video02{
+	background: #F781D8;
+	border-radius: 10px;
+	padding: 30px 0;
+	text-align: center
+	color: black;
+}
+
+
+
 .Autores > .center{
 	display: left;
 	flex-wrap: wrap;
