@@ -22,7 +22,7 @@ nav li {
 #rectangle{
     width:200px;
     height:100px;
-    background:blue;
+    background: #81F781;
 }
 
 
@@ -31,7 +31,7 @@ nav li {
 }
 
 section.video1{
-	background: #298A08;
+	background: #81F781;
 	border-radius: 10px;
 	padding: 30px 0;
 	text-align: center
