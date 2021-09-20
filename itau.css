@@ -25,6 +25,10 @@ nav li {
     background:blue;
 }
 
+#linha-horizontal {
+    width: 300px;
+    border: 10px solid #000;
+}
 
 .Autores{
 	padding: 30px 0;
