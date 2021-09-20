@@ -39,18 +39,17 @@ nav li {
 
 
 .Autores > .center{
-	display: center;
-	flex-wrap: wrap;
+	display: left;
 }
 
 .AutoresListaOrdemAlfabetica{
-	width: 33.3%;
-	padding: 20px;
+	width: auto;
+	padding: auto;
 }
 
 
 .box-single-loja{
-	height: 100%;
+	height: auto;
 	border: 1px solid rgb(225,225,225);
 }
 
@@ -59,7 +58,7 @@ nav li {
 }
 
 .box-single-lista h2{
-	text-align: center;
+	text-align: left;
 	padding:0 8px;
 	font-weight: normal;
 }
@@ -74,7 +73,7 @@ nav li {
 	color: white;
 	background: #0e76a8;
 	padding: 10px 8px;
-	text-align: center;
+	text-align: left;
 	display: block;
 	width: 100%;
 }
