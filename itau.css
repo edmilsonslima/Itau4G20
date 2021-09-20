@@ -39,7 +39,7 @@ nav li {
 
 
 .Autores > .center{
-	display: left;
+	display: center;
 	flex-wrap: wrap;
 }
 
@@ -74,7 +74,7 @@ nav li {
 	color: white;
 	background: #0e76a8;
 	padding: 10px 8px;
-	text-align: left;
+	text-align: center;
 	display: block;
 	width: 100%;
 }
