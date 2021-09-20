@@ -58,34 +58,34 @@ section.Autores > .center{
 	flex-wrap: wrap;
 }
 
-.AutoresListaOrdemAlfabetica{
+section.AutoresListaOrdemAlfabetica{
 	width: 33.3%;
 	padding: 20px;
 }
 
 
-.box-single-loja{
+section.box-single-loja{
 	height: 100%;
 	border: 1px solid rgb(225,225,225);
 }
 
-.box-single-lista img{
+section.box-single-lista img{
 	max-width: 100%;
 }
 
-.box-single-lista h2{
+section.box-single-lista h2{
 	text-align: center;
 	padding:0 8px;
 	font-weight: normal;
 }
 
-.box-single-lista p{
+section.box-single-lista p{
 	padding:15px 8px;
 	font-size: 15px;
 	color: rgb(10,10,10);
 }
 
-.AutoresListaOrdemAlfabetica a{
+section.AutoresListaOrdemAlfabetica a{
 	color: white;
 	background: #5fb382;
 	padding: 10px 8px;
