@@ -10,6 +10,7 @@ nav li {
 .alignright { float:left; }
 
 .menuPrincipal {
+	text-align: right;
 	background: #E2EAE4;
 	text-transform: uppercase;
 	color: #003E15;
