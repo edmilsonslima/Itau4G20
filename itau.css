@@ -82,6 +82,9 @@ h1 {
     text-align: right;
 }
 
+.noticia .content .audio {
+    text-align: center;
+}
 
 .noticia  h2 {
     padding: 4vh !important;
