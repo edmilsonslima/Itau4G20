@@ -1,0 +1,45 @@
+
+
+Noticias boas
+
+1- > 6 noticias
+		A -> 2 textos
+		B -> 2 videos
+		C -> 2 Audios
+
+2 -> criar a pagina 
+		HTML e CSS. (OK)
+		
+3 - > Git
+     criar (ok)
+	 Criar conta do git hub (14-09-2021)
+	 Add todos (Edmilson)
+	 
+??4 -> verificar se é uma ou varias paginas .
+
+5 -> estrutura
+
+	A -> Home.
+	   verificar se a noticia toda ou só o link ??
+	B -> Sobre.
+		I -> nome.
+		II -> Resumo (background profissional).
+		III -> link linkedin.
+	C -> Contato.
+	    detalhar na proxima reunião. 
+	D -> Saiba Mais.
+
+6 -> hospedagem
+	Netlify.	https://nifty-newton-c2173b.netlify.app
+	
+	
+Cardozo.
+Edmilson S Lima.
+Elberson Alves.
+Karyne.
+Marcelo.
+	
+	
+	
+	
+
